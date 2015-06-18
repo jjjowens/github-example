@@ -9,4 +9,4 @@ How to Contribute
 Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
 
 
-Blah blay blah
+To be or not to be, that is the question!
